@@ -12,15 +12,15 @@
      ## Usage
      1. Download the script:
      
-        sudo wget https://raw.githubusercontent.com/Rezawojdani/docker-install-script/main/docker_install.sh
+        wget https://raw.githubusercontent.com/Rezawojdani/docker-install-script/main/docker_install.sh
        
      2. Make it executable:
         
-        sudo chmod +x docker_install.sh
+        chmod +x docker_install.sh
      
      3. Run with sudo or as root:
       
-        sudo ./docker_install.sh
+        ./docker_install.sh
      
      ## Requirements
      - Ubuntu-based system
