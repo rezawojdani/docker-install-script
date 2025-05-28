@@ -8,22 +8,20 @@
      - Install Docker and Docker Compose.
      - Remove Docker and all associated data with user confirmation.
      - Reboot server with user confirmation.
-     - Created by Rezawojdani.
-
+     
      ## Usage
      1. Download the script:
-        ```bash
-        wget https://raw.githubusercontent.com/Rezawojdani/docker-install-script/main/docker_install.sh
-        ```
+     
+        sudo wget https://raw.githubusercontent.com/Rezawojdani/docker-install-script/main/docker_install.sh
+       
      2. Make it executable:
-        ```bash
-        chmod +x docker_install.sh
-        ```
+        
+        sudo chmod +x docker_install.sh
+     
      3. Run with sudo or as root:
-        ```bash
+      
         sudo ./docker_install.sh
-        ```
-
+     
      ## Requirements
      - Ubuntu-based system
      - Root privileges (via `sudo` or root user)
